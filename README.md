@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/nekokak/p5-Teng.svg?branch=master)](https://travis-ci.org/nekokak/p5-Teng)
+[![Actions Status](https://github.com/AnaTofuZ/p5-Teng/actions/workflows/test.yml/badge.svg)](https://github.com/AnaTofuZ/p5-Teng/actions)
 # NAME
 
 Teng - very simple DBI wrapper/ORMapper
